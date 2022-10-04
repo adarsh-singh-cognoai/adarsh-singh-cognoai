@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adarsh-singh-cognoai
+- 👋 Hi, I’m @adarsh singh
 - 👀 I’m interested in CP/DSA
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Coding Stuffs
