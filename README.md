@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adarsh singh
-- https://adarsh1722.netlify.app/
  <!---
 - 👀 I’m interested in CP/DSA
 - 🌱 I’m currently learning Django
